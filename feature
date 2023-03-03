@@ -1,2 +1,2 @@
 feature2
-develope1 new feature
+develope1 new feature-2
