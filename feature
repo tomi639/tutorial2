@@ -1,2 +1,2 @@
+developer 2 commit 2
 feature2
-develope1 new feature-2
